@@ -6,23 +6,19 @@ login = False
 print('Bem-vindo\n\n'
       '--Cadastro--')
 
-usuario1 = input('Usuário: ')
-senha1 = input('Senha: ')
+usuario = input('Usuário: ')
+senha = input('Senha: ')
 
 print('\nCadastro realizado com sucesso!\n')
 
 print('--Login--')
-usuario2 = input('Digite seu usuário: ')
-senha2 = input('Digite sua senha: ')
 
-if usuario1 == usuario2 and senha1 == senha2:
-      login = True
+if input('Usuário: ') == usuario and input('Senha: ') == senha:
+    login = True
 else:
-      login = False
+    login = False
 
 if login:
-      print('\nUsuário logado com sucesso!')
+    print('\nUsuário logado com sucesso!')
 else:
-      print('\nUsuário ou senha incorreto!')
-
-
+    print('\nUsuário ou senha incorreto!')
