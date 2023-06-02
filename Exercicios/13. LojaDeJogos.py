@@ -17,44 +17,118 @@ precosVenda = [29.90, 149.99, 299.90, 170.00]  # Preços dos jogos
 precosCusto = [9.90, 105.90, 130.00, 120.00]  # Preços de custo
 estoqueJogos = [6, 10, 20, 13]  # Quantidade de jogos disponívies
 vendas = []
-comprasReporEstoque = []
+compras = []
 
 op = 0
 while True:
     op = int(input('---- Bem-vindo ao PDV ----\n\nSelecione a opção desejada\n'
                    '1 - Registrar venda\n'
-                   '2 - Pedido de compra\n'
+                   '2 - Registrar compra\n'
                    '3 - Resumo da loja\n'
                    '4 - Sair\n'
                    'Resposta: '))
     if op == 1:
         print('\n----- REGISTAR VENDA -----\n')
         print('COD | NOME | PREÇO | QTD')
-        indice = 0
-        while indice < len(nomeJogos):
-            print(f'{indice}...{nomeJogos[indice]}...R$ {precosVenda[indice]:.2f}...{estoqueJogos[indice]}')
-            indice += 1
+
+        # LISTAR JOGOS
+        for jogo in nomeJogos:
+            print(f'{nomeJogos.index(jogo)}...{jogo}...'
+                  f'R${precosVenda[nomeJogos.index(jogo)]:.2f}...'
+                  f'{estoqueJogos[nomeJogos.index(jogo)]}')
+
+        # SELECIONAR JOGO
         codigo = int(input('\nDigite o código do jogo: '))
         print(f'Nome: {nomeJogos[codigo]}')
-        qtd = int(input('Digite a quantidade: '))
+
+        # INFORMAR QUANTIDADE
+        while True:
+            qtd = int(input('Digite a quantidade: '))
+            if qtd <= estoqueJogos[codigo]:
+                break
+            else:
+                print('\n[!] Quantidade informada é maior que estoque!')
+                print(f'[!] Quantida em estoque: {estoqueJogos[codigo]}\n')
+
+        # DEDUZ QUANTIDADE DO ESTOQUE
+        estoqueJogos[codigo] -= qtd
+        print(f'Quantidade atual no estoque: {estoqueJogos[codigo]}')
+
+        # CALCULA VALOR TOTAL DA VENDA
         valorVenda = precosVenda[codigo] * qtd
         print(f'Valor total da venda: R${valorVenda:.2f}')
         vendas.append(valorVenda)
-        # falta conferir se a quantidade pedida é menor ou igual que o estoque
-        # falta descontar o quantidade solicitada do estoque
 
-        print('\n--- RESUMO DA VENDA---')
+        # EXIBE RESUMO DA VENDA
+        print('\n--- RESUMO DA VENDA ---')
         print(f'Nome do jogo: {nomeJogos[codigo]}\n'
               f'Quantidade: {qtd}\n'
               f'Valor total: R$ {valorVenda:.2f}\n'
               f'Vendas até o momento: {vendas}\n')
 
     elif op == 2:
-        print('Opção 2')
+        print('\n----- REGISTRAR COMPRA -----\n')
+        print('COD | NOME | PREÇO | QTD')
+
+        # LISTAR JOGOS
+        for jogo in nomeJogos:
+            print(f'{nomeJogos.index(jogo)}...{jogo}...'
+                  f'R${precosVenda[nomeJogos.index(jogo)]:.2f}...'
+                  f'{estoqueJogos[nomeJogos.index(jogo)]}')
+
+        # SELECIONAR JOGO
+        codigo = int(input('\nDigite o código do jogo: '))
+        print(f'Nome: {nomeJogos[codigo]}')
+
+        # INFORMAR QUANTIDADE
+        qtd = int(input('Digite a quantidade: '))
+
+        # ADICIONAR QUANTIDADE AO ESTOQUE
+        estoqueJogos[codigo] += qtd
+        print(f'Quantidade atual no estoque: {estoqueJogos[codigo]}')
+
+        # CALCULA VALOR TOTAL DA COMPRA
+        valorCompra = precosCusto[codigo] * qtd
+        print(f'Valor total da compra: R${valorCompra:.2f}')
+        compras.append(valorCompra)
+
+        # EXIBE RESUMO DA COMPRA
+        print('\n--- RESUMO DA COMPRA---')
+        print(f'Nome do jogo: {nomeJogos[codigo]}\n'
+              f'Quantidade: {qtd}\n'
+              f'Valor total: R$ {valorCompra:.2f}\n'
+              f'Compras até o momento: {compras}\n')
+
     elif op == 3:
-        print('Opção 3')
+        print('\n----- RESUMO DA LOJA -----\n')
+
+        # EXIBIR ESTOQUE ATUAL
+        print('--- Estoque atual --------')
+        for jogo in nomeJogos:
+            print(f'{jogo}: {estoqueJogos[nomeJogos.index(jogo)]} un.')
+
+        # EXIBE TOTAL DE VENDAS
+        print('--- Total de Vendas ------')
+        totalVendas = 0
+        for venda in vendas:
+            print(f'Venda {vendas.index(venda)+1}: R$ {venda:.2f}')
+            totalVendas += venda
+        print(f'TOTAL: R${totalVendas:.2f}')
+
+        # EXIBE TOTAL DE COMPRAS
+        print('--- Total de Compras -----')
+        totalCompras = 0
+        for compra in compras:
+            print(f'Compra {compras.index(compra) + 1}: R$ {compra:.2f}')
+            totalCompras += compra
+        print(f'TOTAL: R${totalCompras:.2f}')
+
+        # CALCULAR LUCRO / PREJUÍZO
+        print('--- Balanço --------------')
+        print(f'Lucro / Prejuízo: R$ {totalVendas-totalCompras:.2f}\n')
+
     elif op == 4:
-        print('Opção 4')
+        print('CAIXA FECHADO!')
         break
     else:
         print('Opção inválida. Tente Novamente!')
