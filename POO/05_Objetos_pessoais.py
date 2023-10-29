@@ -1,3 +1,10 @@
+'''
+1 - Crie uma classe contendo atributos públicos e privados representando
+objetos pessoais. Após isso, crie uma propriedade pra cada atributo privado.
+Instancie um objeto e faça acesso a todos os atributos. Utilize também o setter,
+para alterar algum valor do objeto.
+'''
+
 class Obejetos:
 
     def __init__(self, nome_dono, videogame, senha_celular, dinheiro, camisa, livro):
