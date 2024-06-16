@@ -25,12 +25,7 @@ class Robo:
         self.estado = estado
 
     def liga_desliga(self):
-        if self.estado:
-            self.estado = False
-            print('Robo desligado')
-        else:
-            self.estado = True
-            print('Robo ligado')
+        self.estado = not self.estado
 
     def movimento(self, lado):
         print(f'1 passo para {lado}')
