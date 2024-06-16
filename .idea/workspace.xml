@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Seção 09/ex01_raise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Seção 09/ex02_try_except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/06_Controle_universal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/07_Especies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO/08_Polimorfismo_area.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/01_Input_e_Output.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/02_Dir_e_Help.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/03_Operacoes_Matematicas.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/04_Criacao_Personagem.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/05_Calculadora.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/06_Login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/07_Equacao_Segundo_Grau.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/08_Soma_dos_Divisores.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/09_Multiplus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/10_Palindromo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/11_Fibonacci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/12_CarrinhoDeCompras.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/13_LojaDeJogos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/14_ListComprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/15_SenhasDaPrisao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/16_ExercicioGenerators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/17_Batalha.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/18_PresenteDNamorados.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/19_ExercDictComprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/20_Sami&amp;Dudu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/21_FiboRecursivo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/22_Corrida_args_kwargs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/23_SomaDeAlgarismos.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/24_ListasComLambdasECompreh.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/25_fatorialReduce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/26_map_filter_imc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/27_any_all_max_min.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/28_sorted_reversed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/29_zip_pontuacao.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/30_exercicios_seccao_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/POO/02_Robo.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/02_Robo.py" afterDir="false" />
-    </list>
+    <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,30 +75,7 @@
       <recent name="C:\Users\maxps\PycharmProjects\Python1500+\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_DictComprehension">
-    <configuration name="02_DictComprehension" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Python1500+" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\maxps\OneDrive\Documentos\Python\AmbientesVirtuaisPython\CursoPython01\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (CursoPython01)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExerciciosRevisao" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosRevisao/02_DictComprehension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.12_CarrinhoDeCompras">
     <configuration name="08_Soma_dos_Divisores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python1500+" />
       <option name="ENV_FILES" value="" />
