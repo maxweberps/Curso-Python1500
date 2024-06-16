@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/Exercicios/Seção 09/ex01_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Seção 09/ex02_try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/06_Controle_universal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/07_Especies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO/08_Polimorfismo_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/01_Input_e_Output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/02_Dir_e_Help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/03_Operacoes_Matematicas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/04_Criacao_Personagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/05_Calculadora.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/06_Login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/07_Equacao_Segundo_Grau.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/08_Soma_dos_Divisores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/09_Multiplus.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/10_Palindromo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/11_Fibonacci.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/12_CarrinhoDeCompras.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/13_LojaDeJogos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/14_ListComprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/15_SenhasDaPrisao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/16_ExercicioGenerators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/17_Batalha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/18_PresenteDNamorados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/19_ExercDictComprehension.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/20_Sami&amp;Dudu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/21_FiboRecursivo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/22_Corrida_args_kwargs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/23_SomaDeAlgarismos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/24_ListasComLambdasECompreh.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/25_fatorialReduce.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/26_map_filter_imc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/27_any_all_max_min.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/28_sorted_reversed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/29_zip_pontuacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/30_exercicios_seccao_8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO/02_Robo.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO/02_Robo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ab398d9f-f4fb-4c6f-8c12-bdcf66e7f6d6" />
+        <option name="url" value="https://github.com/maxweberps/Python1500.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2OkkyrYOTfrql6WIZGXpTu5S3GV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.02_DictComprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Polimorfismo_area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.31_exercicios_secao_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02_try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sec09_ex01_raise.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maxps/PycharmProjects/Python1500+&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maxps\PycharmProjects\Python1500+" />
+      <recent name="C:\Users\maxps\PycharmProjects\Python1500+\ExerciciosRevisao" />
+      <recent name="C:\Users\maxps\PycharmProjects\Python1500+\Exercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.02_DictComprehension">
+    <configuration name="02_DictComprehension" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\maxps\OneDrive\Documentos\Python\AmbientesVirtuaisPython\CursoPython01\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (CursoPython01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExerciciosRevisao" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosRevisao/02_DictComprehension.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_Soma_dos_Divisores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/08_Soma_dos_Divisores.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_Multiplus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/09_Multiplus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_Palindromo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/10_Palindromo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="11_Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/11_Fibonacci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_CarrinhoDeCompras" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\maxps\OneDrive\Documentos\Python\AmbientesVirtuaisPython\CursoPython01\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (CursoPython01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/12_CarrinhoDeCompras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_LojaDeJogos" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\maxps\OneDrive\Documentos\Python\AmbientesVirtuaisPython\CursoPython01\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (CursoPython01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\maxps\PycharmProjects\Python1500+\Exercicios\13_LojaDeJogos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SorteioDeClientes" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\maxps\OneDrive\Documentos\Python\AmbientesVirtuaisPython\CursoPython01\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (CursoPython01)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ExerciciosRevisao" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExerciciosRevisao/SorteioDeClientes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.11_Fibonacci" />
+        <item itemvalue="Python.10_Palindromo" />
+        <item itemvalue="Python.09_Multiplus" />
+        <item itemvalue="Python.08_Soma_dos_Divisores" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="" />
+      <created>1682112224601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682112224601</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit inicial">
+      <created>1682197570067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682197570067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit inicial">
+      <created>1682197835943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682197835943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="comentários adicionados">
+      <created>1682197975292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682197975292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dir e help">
+      <created>1682200497011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682200497011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="exercios aula 14">
+      <created>1682289722298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682289722298</updated>
+    </task>
+    <task id="LOCAL-00006" summary="exercicio 4 concluido">
+      <created>1682376255502</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682376255502</updated>
+    </task>
+    <task id="LOCAL-00007" summary="exercicio 5 concluido">
+      <created>1682380059663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682380059663</updated>
+    </task>
+    <task id="LOCAL-00008" summary="exercicio 6 concluido">
+      <created>1682802734820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682802734820</updated>
+    </task>
+    <task id="LOCAL-00009" summary="exercicio 7 concluido">
+      <created>1682803927187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682803927187</updated>
+    </task>
+    <task id="LOCAL-00010" summary="exercicio 7 concluido">
+      <created>1682814260471</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682814260471</updated>
+    </task>
+    <task id="LOCAL-00011" summary="exercicio 8 concluido">
+      <created>1682814856193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682814856193</updated>
+    </task>
+    <task id="LOCAL-00012" summary="exercicio 9 concluido">
+      <created>1682815771144</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682815771144</updated>
+    </task>
+    <task id="LOCAL-00013" summary="exercicio 10 concluido">
+      <created>1683162005484</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683162005484</updated>
+    </task>
+    <task id="LOCAL-00014" summary="exercicio 11 concluido">
+      <created>1683851705653</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1683851705653</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exercicio 13 v1.0">
+      <created>1685679585201</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685679585201</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exercicio 14 final">
+      <created>1686181821712</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1686181821712</updated>
+    </task>
+    <task id="LOCAL-00017" summary="exercicio 15 final">
+      <created>1686261421337</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1686261421337</updated>
+    </task>
+    <task id="LOCAL-00018" summary="exercicio 16 final">
+      <created>1686709686536</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1686709686536</updated>
+    </task>
+    <task id="LOCAL-00019" summary="exercicio 17 final">
+      <created>1686790357540</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1686790357540</updated>
+    </task>
+    <task id="LOCAL-00020" summary="exercicio 18 final">
+      <created>1687315131682</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1687315131682</updated>
+    </task>
+    <task id="LOCAL-00021" summary="exercicio rev 03 final">
+      <created>1687317812132</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1687317812132</updated>
+    </task>
+    <task id="LOCAL-00022" summary="exercicio 20 final">
+      <created>1687999442106</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1687999442106</updated>
+    </task>
+    <task id="LOCAL-00023" summary="revisao">
+      <created>1688093685779</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1688093685779</updated>
+    </task>
+    <task id="LOCAL-00024" summary="revisao">
+      <created>1688172509378</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1688172509378</updated>
+    </task>
+    <task id="LOCAL-00025" summary="atualizando">
+      <created>1697079158643</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1697079158643</updated>
+    </task>
+    <task id="LOCAL-00026" summary="atualizando">
+      <created>1697239262462</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1697239262462</updated>
+    </task>
+    <task id="LOCAL-00027" summary="atualizando">
+      <option name="closed" value="true" />
+      <created>1697676555980</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1697676555980</updated>
+    </task>
+    <task id="LOCAL-00028" summary="atualizando">
+      <option name="closed" value="true" />
+      <created>1698603253927</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698603253927</updated>
+    </task>
+    <task id="LOCAL-00029" summary="atualizando">
+      <option name="closed" value="true" />
+      <created>1698603342885</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1698603342885</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inicial" />
+    <MESSAGE value="comentários adicionados" />
+    <MESSAGE value="dir e help" />
+    <MESSAGE value="exercios aula 14" />
+    <MESSAGE value="exercicio 4 concluido" />
+    <MESSAGE value="exercicio 5 concluido" />
+    <MESSAGE value="exercicio 6 concluido" />
+    <MESSAGE value="exercicio 7 concluido" />
+    <MESSAGE value="exercicio 8 concluido" />
+    <MESSAGE value="exercicio 9 concluido" />
+    <MESSAGE value="exercicio 10 concluido" />
+    <MESSAGE value="exercicio 11 concluido" />
+    <MESSAGE value="exercicio 13 v1.0" />
+    <MESSAGE value="exercicio 14 final" />
+    <MESSAGE value="exercicio 15 final" />
+    <MESSAGE value="exercicio 16 final" />
+    <MESSAGE value="exercicio 17 final" />
+    <MESSAGE value="exercicio 18 final" />
+    <MESSAGE value="exercicio rev 03 final" />
+    <MESSAGE value="exercicio 20 final" />
+    <MESSAGE value="revisao" />
+    <MESSAGE value="atualizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizando" />
+  </component>
+</project>
