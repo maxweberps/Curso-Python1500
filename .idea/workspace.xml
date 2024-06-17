@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando" />
+    <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,12 @@
     &quot;Python.02_DictComprehension.executor&quot;: &quot;Run&quot;,
     &quot;Python.08_Polimorfismo_area.executor&quot;: &quot;Run&quot;,
     &quot;Python.31_exercicios_secao_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01_raise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex01_superclasse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex02_controle_universal.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex02_try_except.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex03_especies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex04_polimorfismo_area.executor&quot;: &quot;Run&quot;,
     &quot;Python.sec09_ex01_raise.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
