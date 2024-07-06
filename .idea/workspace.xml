@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dff1724c-bcff-490d-8e5b-9ca8f7d2c93e" name="Changes" comment="atualizando">
+      <change afterPath="$PROJECT_DIR$/seção-09/sec09-ex03_debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seção-10/sec10-ex01_iteravel-iterador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seção-10/sec10-ex02_geradores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seção-10/sec10-testes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 09/ex01_raise.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-09/sec09-ex01_raise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 09/ex02_try_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-09/sec09-ex02_try-except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 15/ex01_superclasse.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-15/sec15-ex01_superclasse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 15/ex02_controle_universal.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-15/sec15-ex02_controle-universal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 15/ex03_especies.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-15/sec15-ex03_especies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seção 15/ex04_polimorfismo_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/seção-15/sec15-ex04_polimorfismo-area.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,26 +65,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.02_DictComprehension.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_Polimorfismo_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.31_exercicios_secao_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex01_raise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex01_superclasse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex02_controle_universal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex02_try_except.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex03_especies.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex04_polimorfismo_area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sec09_ex01_raise.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/maxps/PycharmProjects/Python1500+&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.02_DictComprehension.executor": "Run",
+    "Python.08_Polimorfismo_area.executor": "Run",
+    "Python.12_CarrinhoDeCompras.executor": "Run",
+    "Python.31_exercicios_secao_15.executor": "Run",
+    "Python.ex01_raise.executor": "Run",
+    "Python.ex01_superclasse.executor": "Run",
+    "Python.ex02_controle_universal.executor": "Run",
+    "Python.ex02_try_except.executor": "Run",
+    "Python.ex03_debug.executor": "Debug",
+    "Python.ex03_especies.executor": "Run",
+    "Python.ex04_polimorfismo_area.executor": "Run",
+    "Python.sec09_ex01_raise.executor": "Run",
+    "Python.sec10-ex01-iteravel-iterador.executor": "Run",
+    "Python.sec10-ex02_geradores.executor": "Run",
+    "Python.sec10-testes.executor": "Run",
+    "Python.teste.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/maxps/PycharmProjects/[Curso] Python1500+",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\maxps\PycharmProjects\Python1500+" />
@@ -82,7 +98,7 @@
       <recent name="C:\Users\maxps\PycharmProjects\Python1500+\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12_CarrinhoDeCompras">
+  <component name="RunManager">
     <configuration name="08_Soma_dos_Divisores" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python1500+" />
       <option name="ENV_FILES" value="" />
@@ -240,8 +256,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex03_debug" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="[Curso] Python1500+" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seção 09" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seção 09/ex03_debug.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex03_debug" />
         <item itemvalue="Python.11_Fibonacci" />
         <item itemvalue="Python.10_Palindromo" />
         <item itemvalue="Python.09_Multiplus" />
